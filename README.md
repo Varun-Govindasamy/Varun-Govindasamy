@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There👋, I'm Varun G</h1>
+<h1 align="center">Hello There👋, I'm Varun</h1>
 <h2 align="center">A passionate <emp>Web Developer</emp></h3>
 <img align = "right" alt = "Coding" width = "500" height = "250"  src = "https://camo.githubusercontent.com/deae7e77ed06c8409537b01cfa9fae37278f26e313b0aaf8983c6c41c6fc23dd/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034382f3238322f3733332f6f726967696e616c2f6578636570747265612d67616d6572726f6f6d2d312d7265766973696f6e65642d302e6769663f31363439373631313035"/>
 

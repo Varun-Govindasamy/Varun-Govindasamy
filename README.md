@@ -6,6 +6,7 @@
 - 💬 Ask me about **JavaScript, React**
 - 👨‍💻 Seeking for internships at big tech companies!
 - 🛒 Currently working on an **e-Commerce website**
+- ⭐ I enjoy building cool products, playing soccer, lifting weights and learning new things!
 - 👯 Ready for collabs!
 - 📫 Reach me out @  **varunkannan2005@gmail.com**
   

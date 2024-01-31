@@ -27,7 +27,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/varun-govindasamy/varun-govindasamy/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Varun-Govindasamy/Varun-Govindasamy/output/github-contribution-grid-snake.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-govindasamy&show_icons=true&locale=en&layout=compact" alt="varun-govindasamy" /></p>
 

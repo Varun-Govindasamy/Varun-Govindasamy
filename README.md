@@ -323,7 +323,7 @@ mission: >
   <br/><br/>
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=varun-govindasamy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="97%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=varun-govindasamy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="97%"/>
 
 </div>
 

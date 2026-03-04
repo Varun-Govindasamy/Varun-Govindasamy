@@ -46,7 +46,7 @@
 
 <br/>
 
-<img align="right" alt="AI-Animation" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif"/>
+<img align="right" alt="AI-Animation" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
 ```yaml
 name: Varun Govindasamy

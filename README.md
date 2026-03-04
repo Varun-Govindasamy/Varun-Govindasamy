@@ -1,70 +1,99 @@
-<!-- Header Banner -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER SECTION ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varun%20Govindasamy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20the%20Future%20with%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6C63FF,100:00D4AA&height=250&section=header&text=Varun%20Govindasamy&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20Agentic%20Systems%20Architect%20%7C%20LLM%20Specialist%20%E2%9A%A1&descAlignY=58&descSize=16&descColor=C9D1D9" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Varun;%F0%9F%A4%96+Crafting+Intelligent+AI+Solutions;%F0%9F%9A%80+Turning+Data+into+Impact" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- Profile Badges -->
-<p align="center">
-  <a href="https://github.com/Varun-Govindasamy"><img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?style=for-the-badge" /></a>
-  <a href="https://github.com/Varun-Govindasamy"><img src="https://img.shields.io/badge/Expertise-Generative%20AI%20%26%20LLMs-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/Varun-Govindasamy"><img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=varun-govindasamy&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- About Me Section -->
 <div align="center">
-
-## 🧠 About Me
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%E2%9C%A8+Engineering+Intelligence%2C+One+Model+at+a+Time;%F0%9F%A7%A0+From+Transformers+to+Autonomous+Agents;%F0%9F%94%97+LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI+%C2%B7+MCP;%F0%9F%9A%80+Turning+Research+Papers+into+Production+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+<!-- Profile Badges Row -->
+<p align="center">
+  <a href="https://github.com/Varun-Govindasamy">
+    <img src="https://img.shields.io/badge/%20-Generative%20AI-6C63FF?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Varun-Govindasamy">
+    <img src="https://img.shields.io/badge/%20-Agentic%20Systems-00D4AA?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Varun-Govindasamy">
+    <img src="https://img.shields.io/badge/%20-LLM%20Engineering-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Varun-Govindasamy">
+    <img src="https://img.shields.io/badge/%20-ML%20%2F%20Deep%20Learning-FFD93D?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=varun-govindasamy&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/varun-govindasamy?label=Followers&style=flat-square&color=6C63FF&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/varun-govindasamy?label=Stars&style=flat-square&color=00D4AA&labelColor=0D1117" alt="Stars" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ ABOUT ME SECTION ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%80%8E-ABOUT%20ME-6C63FF?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+</div>
+
+<br/>
+
+<img align="right" alt="AI-Animation" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
 ```yaml
 name: Varun Govindasamy
-role: AI / ML Engineer
-located_in: India
-currently_building: AI-powered applications
-passion: Transforming complex problems into elegant AI solutions
+title: AI / ML Engineer
+location: India
+current_focus: Building agentic AI systems & LLM-powered applications
+mission: >
+  Designing intelligent systems that transform
+  cutting-edge research into scalable, real-world solutions
 ```
+
+<br/>
+
+> *"The best way to predict the future is to engineer it — with AI."*
 
 &nbsp;
 
-🔬 **Exploring the frontiers** of Generative AI, Agentic AI & Large Language Models
+🔬 &nbsp;**Pioneering** at the intersection of Generative AI, Agentic Workflows & Large Language Models
 
-🏗️ **Architecting** intelligent systems that bridge research and real-world impact
+🏗️ &nbsp;**Engineering** end-to-end AI pipelines — from fine-tuning transformers to deploying autonomous agents
 
-🎯 **Seeking opportunities** at leading tech companies to push the boundaries of AI
+🎯 &nbsp;**Seeking opportunities** at top-tier tech companies to architect next-generation AI systems
 
-🤝 **Open to collaborating** on innovative AI/ML projects and open-source contributions
+🤝 &nbsp;**Open to collaborating** on high-impact AI/ML research and open-source initiatives
 
-⚡ **Beyond the code** — Soccer enthusiast, fitness advocate & lifelong learner
+⚡ &nbsp;**Off the clock** — Soccer midfielder, gym enthusiast & perpetual learner
 
-📬 **Let's connect** — **varunkannan2005@gmail.com**
+📬 &nbsp;**Reach out** — **varunkannan2005@gmail.com**
 
 <br clear="right"/>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Connect Section -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ CONNECT SECTION ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+  <img src="https://img.shields.io/badge/%E2%80%8E-LET'S%20CONNECT-6C63FF?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+  <br/><br/>
 
-## 🌐 Let's Connect & Collaborate
-
-<p>
   <a href="https://linkedin.com/in/varun-g-537458276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://twitter.com/varun958078403" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>&nbsp;
   <a href="https://instagram.com/varun_.g" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -73,53 +102,94 @@ passion: Transforming complex problems into elegant AI solutions
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>&nbsp;
   <a href="mailto:varunkannan2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Tech Stack Section -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ TECH STACK SECTION ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-## ⚒️ AI / ML Tech Arsenal ⚒️
-
-<p><i>The tools and technologies I leverage to build intelligent systems</i></p>
-
+  <img src="https://img.shields.io/badge/%E2%80%8E-TECH%20ARSENAL-6C63FF?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+  <br/>
+  <i>⚙️ The weapons I wield to engineer intelligent systems ⚙️</i>
 </div>
 
-<!-- Programming Language -->
-<details open>
-<summary><h3>🐍 Core Language</h3></summary>
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+
+<!-- ─────────── Programming Language ─────────── -->
+<table align="center">
+<tr><td align="center" width="100%">
+
+### 🐍 &nbsp;Core Language
+
+<br/>
+
+<a href="https://www.python.org">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+</a>
+
+<br/><br/>
+
+</td></tr>
+</table>
+
+<!-- ─────────── Frameworks & Libraries ─────────── -->
+<table align="center">
+<tr><td align="center" width="100%">
+
+### 🤖 &nbsp;AI / ML Frameworks & Libraries
+
+<br/>
+
+<!-- Agentic & LLM Frameworks -->
+<p>
+  <a href="https://python.langchain.com">
+    <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://langchain-ai.github.io/langgraph/">
+    <img src="https://img.shields.io/badge/🔗_LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=00D4AA"/>
+  </a>&nbsp;
+  <a href="https://www.crewai.com">
+    <img src="https://img.shields.io/badge/🚀_CrewAI-FF5A1F?style=for-the-badge&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://modelcontextprotocol.io">
+    <img src="https://img.shields.io/badge/🔌_MCP-6C63FF?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
-</details>
 
-<!-- Frameworks & Libraries -->
-<details open>
-<summary><h3>🧪 Frameworks & Libraries</h3></summary>
-<p align="center">
+<!-- Deep Learning & NLP -->
+<p>
+  <a href="https://huggingface.co/docs/transformers">
+    <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>&nbsp;
+  <a href="https://huggingface.co/docs/peft">
+    <img src="https://img.shields.io/badge/PEFT-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>&nbsp;
   <a href="https://www.tensorflow.org">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   </a>&nbsp;
   <a href="https://scikit-learn.org">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://huggingface.co">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>&nbsp;
+  </a>
+</p>
+
+<!-- Web & App Frameworks -->
+<p>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   </a>&nbsp;
   <a href="https://streamlit.io">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+</p>
+
+<!-- Data Science -->
+<p>
   <a href="https://numpy.org">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   </a>&nbsp;
@@ -127,51 +197,60 @@ passion: Transforming complex problems into elegant AI solutions
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a>&nbsp;
   <a href="https://matplotlib.org">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
   </a>&nbsp;
   <a href="https://seaborn.pydata.org">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
-<h4 align="center">🤖 AI & Agent Frameworks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-7B3FF2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Phidata-00D4AA?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Haystack-06B6D4?style=for-the-badge&logoColor=white"/>
-</p>
-</details>
+<br/>
 
-<!-- Databases & Vector Stores -->
-<details open>
-<summary><h3>🗄️ Databases & Vector Stores</h3></summary>
-<p align="center">
+</td></tr>
+</table>
+
+<!-- ─────────── Databases & Vector Stores ─────────── -->
+<table align="center">
+<tr><td align="center" width="100%">
+
+### 🗄️ &nbsp;Databases & Vector Stores
+
+<br/>
+
+<p>
   <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.mongodb.com">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>&nbsp;
+  <a href="https://faiss.ai">
+    <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://www.pinecone.io">
     <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.trychroma.com">
     <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://faiss.ai">
-    <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
   </a>
 </p>
-</details>
 
-<!-- Tools & Platforms -->
-<details open>
-<summary><h3>🛠️ DevOps & Tools</h3></summary>
-<p align="center">
+<br/>
+
+</td></tr>
+</table>
+
+<!-- ─────────── Tools & Platforms ─────────── -->
+<table align="center">
+<tr><td align="center" width="100%">
+
+### 🛠️ &nbsp;Tools & Platforms
+
+<br/>
+
+<p>
   <a href="https://aws.amazon.com">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
   </a>&nbsp;
   <a href="https://www.docker.com">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -179,68 +258,99 @@ passion: Transforming complex problems into elegant AI solutions
   <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com">
+  <a href="https://github.com/Varun-Govindasamy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.postman.com">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </a>&nbsp;
+  <a href="https://huggingface.co">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>&nbsp;
   <a href="https://n8n.io">
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   </a>
 </p>
-</details>
 
-<!-- Divider -->
+<br/>
+
+</td></tr>
+</table>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Contribution Snake -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CONTRIBUTION SNAKE SECTION ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+  <img src="https://img.shields.io/badge/%E2%80%8E-CONTRIBUTIONS-6C63FF?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+  <br/><br/>
 
-## 🐍 My Contributions 🐍
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Varun-Govindasamy/Varun-Govindasamy/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░ GITHUB STATS SECTION ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%80%8E-GITHUB%20ANALYTICS-6C63FF?style=for-the-badge&labelColor=0D1117&color=0D1117" />
+  <br/><br/>
+
+  <!-- Stats & Streak side by side -->
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=varun-govindasamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-govindasamy&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4AA&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  </p>
+
+  <!-- Top Languages -->
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-govindasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=varun-govindasamy&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=varun-govindasamy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="97%"/>
 
 </div>
 
-<!-- Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Stats -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ QUOTE + FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## 📊 GitHub Analytics
+  ### 💡 &nbsp;Thought of the Day
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%"/>
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varun-govindasamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-govindasamy&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</p>
+  <br/><br/>
 
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-govindasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-<!-- Activity Graph -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=varun-govindasamy&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-6C63FF?style=for-the-badge&labelColor=0D1117" />
+  <br/>
+  <i>If my work resonates with you, consider giving a ⭐ — it fuels the next commit!</i>
 
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- Quote -->
-<div align="center">
-
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
-<!-- Footer -->
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:00D4AA&height=120&section=footer" width="100%"/>
 </p>

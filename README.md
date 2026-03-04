@@ -320,11 +320,6 @@ mission: >
   <!-- Activity Graph -->
   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=varun-govindasamy&bg_color=0D1117&color=6C63FF&line=00D4AA&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline" alt="Contribution Graph" />
 
-  <br/><br/>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=varun-govindasamy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="97%"/>
-
 </div>
 
 <!-- Animated Divider -->
